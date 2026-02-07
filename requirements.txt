@@ -1,5 +1,5 @@
 streamlit
-ddddocr
 selenium
+ddddocr
 webdriver-manager
 Pillow
