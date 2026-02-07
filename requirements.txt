@@ -1,0 +1,4 @@
+selenium
+ddddocr
+webdriver-manager
+streamlit
