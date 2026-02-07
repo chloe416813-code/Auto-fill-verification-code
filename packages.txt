@@ -1,4 +1,5 @@
-selenium
-ddddocr
-webdriver-manager
 streamlit
+ddddocr
+selenium
+webdriver-manager
+Pillow
