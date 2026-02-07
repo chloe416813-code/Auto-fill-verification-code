@@ -1,5 +1,2 @@
-streamlit
-ddddocr
-selenium
-webdriver-manager
-Pillow
+libgl1
+libglib2.0-0
