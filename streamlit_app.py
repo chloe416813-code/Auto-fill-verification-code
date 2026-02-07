@@ -1,4 +1,13 @@
 import streamlit as st
+
+# 嘗試匯入，若失敗則顯示友善提示
+try:
+    import ddddocr
+except ImportError:
+    st.error("❌ 偵測到環境缺少必要組件。請確認 GitHub 中已加入 packages.txt 且包含 libgl1")
+
+# ... 其餘的 selenium 與辨識邏輯 ...
+import streamlit as st
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
